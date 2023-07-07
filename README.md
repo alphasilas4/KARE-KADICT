@@ -15,13 +15,13 @@ appointment history for better healthcare management.
 
 # Team
 
-Olamide Michael Oladeji
+Olamide Michael Oladeji  -  
 Product Designer /UI&UX Designer /XR Designer /Brand & Web Designer
 
-Silas Ugwu
+Silas Ugwu  -  
 Software Engineer/BackEnd Development
 
-Oluwaseun Emmanuel Ola
+Oluwaseun Emmanuel Ola  -  
 Hardware Designer and Developer
 
 The Founding team has a combined experience of over 10 Years in Software and
